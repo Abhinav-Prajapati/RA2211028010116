@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userid": 1,
+      "content": "Post about technology",
+      "timestamp": "2025-03-19T15:30:00Z"
+    },
+    {
+      "id": 2,
+      "userid": 1,
+      "content": "Post about science",
+      "timestamp": "2025-03-19T14:45:00Z"
+    },
+    {
+      "id": 3,
+      "userid": 2,
+      "content": "Post about music",
+      "timestamp": "2025-03-19T16:00:00Z"
+    },
+    {
+      "id": 4,
+      "userid": 2,
+      "content": "Post about movies",
+      "timestamp": "2025-03-19T17:15:00Z"
+    },
+    {
+      "id": 5,
+      "userid": 3,
+      "content": "Post about books",
+      "timestamp": "2025-03-19T18:30:00Z"
+    },
+    {
+      "id": 6,
+      "userid": 1,
+      "content": "Post about travel",
+      "timestamp": "2025-03-20T08:00:00Z"
+    },
+    {
+      "id": 7,
+      "userid": 4,
+      "content": "Post about food",
+      "timestamp": "2025-03-20T09:15:00Z"
+    },
+    {
+      "id": 8,
+      "userid": 5,
+      "content": "Post about sports",
+      "timestamp": "2025-03-20T10:30:00Z"
+    },
+    {
+      "id": 9,
+      "userid": 1,
+      "content": "Post about nature",
+      "timestamp": "2025-03-20T11:45:00Z"
+    },
+    {
+      "id": 10,
+      "userid": 6,
+      "content": "Post about art",
+      "timestamp": "2025-03-20T13:00:00Z"
+    },
+    {
+      "id": 11,
+      "userid": 2,
+      "content": "Post about fashion",
+      "timestamp": "2025-03-20T14:15:00Z"
+    },
+    {
+      "id": 12,
+      "userid": 7,
+      "content": "Post about health",
+      "timestamp": "2025-03-20T15:30:00Z"
+    },
+    {
+      "id": 13,
+      "userid": 3,
+      "content": "Post about education",
+      "timestamp": "2025-03-20T16:45:00Z"
+    },
+    {
+      "id": 14,
+      "userid": 8,
+      "content": "Post about business",
+      "timestamp": "2025-03-20T18:00:00Z"
+    },
+    {
+      "id": 15,
+      "userid": 9,
+      "content": "Post about politics",
+      "timestamp": "2025-03-20T19:15:00Z"
+    }
+  ]
+}
